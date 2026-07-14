@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS 双开微信"
+  short_description: "在 macOS 上安全创建并验证独立的第二个微信实例"
+  default_prompt: "使用 $dual-wechat-macos 创建并验证一个独立的第二微信实例。"
